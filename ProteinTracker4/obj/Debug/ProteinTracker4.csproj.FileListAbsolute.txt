@@ -1,5 +1,3 @@
-C:\Users\ludichrislyts\Documents\Visual Studio 2012\Projects\ProteinTracker4\ProteinTracker4\obj\Debug\ProteinTracker4.csproj.App.config
-C:\Users\ludichrislyts\Documents\Visual Studio 2012\Projects\ProteinTracker4\ProteinTracker4\obj\Debug\ProteinTracker4.csprojResolveAssemblyReference.cache
 C:\Users\ludichrislyts\Documents\Visual Studio 2012\Projects\ProteinTracker4\ProteinTracker4\bin\ProteinTracker4.dll.config
 C:\Users\ludichrislyts\Documents\Visual Studio 2012\Projects\ProteinTracker4\ProteinTracker4\bin\ProteinTracker4.dll
 C:\Users\ludichrislyts\Documents\Visual Studio 2012\Projects\ProteinTracker4\ProteinTracker4\bin\ProteinTracker4.pdb
@@ -8,10 +6,13 @@ C:\Users\ludichrislyts\Documents\Visual Studio 2012\Projects\ProteinTracker4\Pro
 C:\Users\ludichrislyts\Documents\Visual Studio 2012\Projects\ProteinTracker4\ProteinTracker4\bin\EntityFramework.SqlServer.dll
 C:\Users\ludichrislyts\Documents\Visual Studio 2012\Projects\ProteinTracker4\ProteinTracker4\bin\Microsoft.Web.Infrastructure.dll
 C:\Users\ludichrislyts\Documents\Visual Studio 2012\Projects\ProteinTracker4\ProteinTracker4\bin\Newtonsoft.Json.dll
-C:\Users\ludichrislyts\Documents\Visual Studio 2012\Projects\ProteinTracker4\ProteinTracker4\bin\ServiceStack.Client.dll
 C:\Users\ludichrislyts\Documents\Visual Studio 2012\Projects\ProteinTracker4\ProteinTracker4\bin\ServiceStack.Common.dll
 C:\Users\ludichrislyts\Documents\Visual Studio 2012\Projects\ProteinTracker4\ProteinTracker4\bin\ServiceStack.dll
 C:\Users\ludichrislyts\Documents\Visual Studio 2012\Projects\ProteinTracker4\ProteinTracker4\bin\ServiceStack.Interfaces.dll
+C:\Users\ludichrislyts\Documents\Visual Studio 2012\Projects\ProteinTracker4\ProteinTracker4\bin\ServiceStack.OrmLite.dll
+C:\Users\ludichrislyts\Documents\Visual Studio 2012\Projects\ProteinTracker4\ProteinTracker4\bin\ServiceStack.OrmLite.SqlServer.dll
+C:\Users\ludichrislyts\Documents\Visual Studio 2012\Projects\ProteinTracker4\ProteinTracker4\bin\ServiceStack.Redis.dll
+C:\Users\ludichrislyts\Documents\Visual Studio 2012\Projects\ProteinTracker4\ProteinTracker4\bin\ServiceStack.ServiceInterface.dll
 C:\Users\ludichrislyts\Documents\Visual Studio 2012\Projects\ProteinTracker4\ProteinTracker4\bin\ServiceStack.Text.dll
 C:\Users\ludichrislyts\Documents\Visual Studio 2012\Projects\ProteinTracker4\ProteinTracker4\bin\System.Net.Http.Extensions.dll
 C:\Users\ludichrislyts\Documents\Visual Studio 2012\Projects\ProteinTracker4\ProteinTracker4\bin\System.Net.Http.Formatting.dll
@@ -32,8 +33,9 @@ C:\Users\ludichrislyts\Documents\Visual Studio 2012\Projects\ProteinTracker4\Pro
 C:\Users\ludichrislyts\Documents\Visual Studio 2012\Projects\ProteinTracker4\ProteinTracker4\bin\EntityFramework.SqlServer.xml
 C:\Users\ludichrislyts\Documents\Visual Studio 2012\Projects\ProteinTracker4\ProteinTracker4\bin\Newtonsoft.Json.xml
 C:\Users\ludichrislyts\Documents\Visual Studio 2012\Projects\ProteinTracker4\ProteinTracker4\bin\ServiceStack.xml
-C:\Users\ludichrislyts\Documents\Visual Studio 2012\Projects\ProteinTracker4\ProteinTracker4\bin\ServiceStack.Client.xml
 C:\Users\ludichrislyts\Documents\Visual Studio 2012\Projects\ProteinTracker4\ProteinTracker4\bin\ServiceStack.Common.xml
+C:\Users\ludichrislyts\Documents\Visual Studio 2012\Projects\ProteinTracker4\ProteinTracker4\bin\ServiceStack.Interfaces.xml
+C:\Users\ludichrislyts\Documents\Visual Studio 2012\Projects\ProteinTracker4\ProteinTracker4\bin\ServiceStack.Redis.xml
 C:\Users\ludichrislyts\Documents\Visual Studio 2012\Projects\ProteinTracker4\ProteinTracker4\bin\ServiceStack.Text.xml
 C:\Users\ludichrislyts\Documents\Visual Studio 2012\Projects\ProteinTracker4\ProteinTracker4\bin\System.Net.Http.Extensions.xml
 C:\Users\ludichrislyts\Documents\Visual Studio 2012\Projects\ProteinTracker4\ProteinTracker4\bin\System.Net.Http.Formatting.xml
@@ -48,5 +50,11 @@ C:\Users\ludichrislyts\Documents\Visual Studio 2012\Projects\ProteinTracker4\Pro
 C:\Users\ludichrislyts\Documents\Visual Studio 2012\Projects\ProteinTracker4\ProteinTracker4\bin\System.Web.WebPages.xml
 C:\Users\ludichrislyts\Documents\Visual Studio 2012\Projects\ProteinTracker4\ProteinTracker4\bin\System.Web.WebPages.Deployment.xml
 C:\Users\ludichrislyts\Documents\Visual Studio 2012\Projects\ProteinTracker4\ProteinTracker4\bin\System.Web.WebPages.Razor.xml
+C:\Users\ludichrislyts\Documents\Visual Studio 2012\Projects\ProteinTracker4\ProteinTracker4\obj\Debug\ProteinTracker4.csproj.App.config
+C:\Users\ludichrislyts\Documents\Visual Studio 2012\Projects\ProteinTracker4\ProteinTracker4\obj\Debug\ProteinTracker4.csprojResolveAssemblyReference.cache
 C:\Users\ludichrislyts\Documents\Visual Studio 2012\Projects\ProteinTracker4\ProteinTracker4\obj\Debug\ProteinTracker4.dll
 C:\Users\ludichrislyts\Documents\Visual Studio 2012\Projects\ProteinTracker4\ProteinTracker4\obj\Debug\ProteinTracker4.pdb
+C:\Users\ludichrislyts\Documents\Visual Studio 2012\Projects\ProteinTracker4\ProteinTracker4\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\ludichrislyts\Documents\Visual Studio 2012\Projects\ProteinTracker4\ProteinTracker4\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\ludichrislyts\Documents\Visual Studio 2012\Projects\ProteinTracker4\ProteinTracker4\bin\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Users\ludichrislyts\Documents\Visual Studio 2012\Projects\ProteinTracker4\ProteinTracker4\bin\Microsoft.Practices.EnterpriseLibrary.Data.xml

@@ -1,7 +1,7 @@
 ﻿using ServiceStack;
 using ServiceStack.Configuration;
-using ServiceStack.Web;
-using ServiceStack.Host;
+using ServiceStack.ServiceHost;
+using ServiceStack.ServiceInterface;
 
 namespace ProteinTracker4.Api
 {
